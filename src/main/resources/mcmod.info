@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "FOSSFYquesting",
+      "name": "FOSSFYquesting",
+      "description": "${description}",
+      "version": "${version}",
+      "mcversion": "${mcversion}",
+      "url": "",
+      "updateUrl": "",
+      "authors": ["${authors}"],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
